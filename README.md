@@ -9,8 +9,8 @@ Missisauga, Ontario
 ### September 2022 - June 2023 | Tomken Rd middle school
 
 Missisuga, Ontario
-#
-#
+#  
+#  
 ## Work Experience
 ### November 2023 - Present | Pizza making | Domino's
 #### Oakville, Ontario
