@@ -13,7 +13,7 @@ Missisuga, Ontario
 
 ## Work Experience
 ### November 2023 - Present | Pizza making | Domino's
-Oakville, Ontario
+#### Oakville, Ontario
 
 - Pizza making
 
