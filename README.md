@@ -1,6 +1,6 @@
 # About Me:
 
-## Education
+# Education
 ### September 2023 - June 2026 | Port Credit Secondary school
 High School Diploma
 
@@ -13,7 +13,7 @@ Missisuga, Ontario
 
 
 
-## Work Experience
+# Work Experience
 ### November 2023 - Present | Pizza making | Domino's
 #### Oakville, Ontario
 
