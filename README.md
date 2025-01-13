@@ -10,8 +10,8 @@ Missisauga, Ontario
 
 Missisuga, Ontario
 
-#  
-#  
+
+
 
 ## Work Experience
 ### November 2023 - Present | Pizza making | Domino's
@@ -22,9 +22,9 @@ Missisuga, Ontario
 - Cashier
 
 - Organizing and opening the store
-#
-#
+
 ## Extra-Curricular
+
 ### January 2019 - Present | Cricket Team(outside school)
 #### Playing for cricket team in Toronto District Cricket Assosiation
 - Captain of U16 team
@@ -55,8 +55,7 @@ Missisuga, Ontario
 ### May 2021 - Present | Swimming
 
 - Partcipate in swimming classes hopefully to become a lifeguard
-#
-#
+
 ## Volunteer Experience
 
 ### January 2020 - Present | Tranzac Cricket
@@ -72,8 +71,7 @@ Missisuga, Ontario
 - Number of Hours: 18
 - Chair painting
 - Burlington, Ontario
-#
-#
+
 ## Skills and Abilities
 ### Leadership
 - Currently captain my schools cricket team as well as my current team outside school. 
@@ -83,15 +81,13 @@ Missisuga, Ontario
 - Learning java and C++
 
 ### Rep Cricket 
-#
-#
+
 ## Achievements
 - June 2023 | Waterloo math contest
 - June 2023 | Best Bowler HYCL cricket tournament
 - May 2023 | 90% grade 9 average
 - November 2022 | Medical certificate of WHIMIS
-#
-#
+
 ## Certifications
 ### May 2024
 - Waterloo math contest
