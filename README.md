@@ -74,27 +74,22 @@ Missisuga, Ontario
 ### Leadership
 - Currently captain my schools cricket team as well as my current team outside school. 
 
+### Computer skills 
+- Python
+- Learning java and C++
 
-Decision making skills
+### Rep Cricket 
 
 
-Computer skills (list specific programs if you have experience)
-Ability to problem solve
-Teamwork
-Listening skills
-Positive attitude and behaviour
-Sense of responsibility
-Ability to work autonomously
-Leadership and management
-Strong work ethic
-Achievements
-June 2023 | Waterloo math contest
-June 2023 | Best Bowler HYCL cricket tournament
-May 2023 | 90% grade 9 average
-November 2022 | Medical certificate of WHIMIS
-Certifications
-May 2024
-Waterloo math contest
+## Achievements
+- June 2023 | Waterloo math contest
+- June 2023 | Best Bowler HYCL cricket tournament
+- May 2023 | 90% grade 9 average
+- November 2022 | Medical certificate of WHIMIS
 
-November 2022
-Medical certificate of WHIMIS
+## Certifications
+### May 2024
+- Waterloo math contest
+
+### November 2022
+- Medical certificate of WHIMIS
