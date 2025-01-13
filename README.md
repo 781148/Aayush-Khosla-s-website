@@ -69,3 +69,32 @@ Missisuga, Ontario
 - Number of Hours: 18
 - Chair painting
 - Burlington, Ontario
+
+## Skills and Abilities
+### Leadership
+- Currently captain my schools cricket team as well as my current team outside school. 
+
+
+Decision making skills
+
+
+Computer skills (list specific programs if you have experience)
+Ability to problem solve
+Teamwork
+Listening skills
+Positive attitude and behaviour
+Sense of responsibility
+Ability to work autonomously
+Leadership and management
+Strong work ethic
+Achievements
+June 2023 | Waterloo math contest
+June 2023 | Best Bowler HYCL cricket tournament
+May 2023 | 90% grade 9 average
+November 2022 | Medical certificate of WHIMIS
+Certifications
+May 2024
+Waterloo math contest
+
+November 2022
+Medical certificate of WHIMIS
