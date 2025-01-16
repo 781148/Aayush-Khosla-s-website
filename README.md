@@ -1,5 +1,12 @@
 # About Me:
 
+### Pages 
+
+
+
+
+
+
 # Education
 ### September 2023 - June 2026 | Port Credit Secondary school
 High School Diploma
