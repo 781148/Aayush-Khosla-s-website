@@ -3,3 +3,20 @@ logo: 56314525-57f0-4a26-b9a3-e8ca1e2359ff.jpeg
 description: An aspiring cricketer with a passion for tech and innovation.
 theme: jekyll-theme-minimal
 
+nav:
+  - name: About Me
+    href: /about
+  - name: Education
+    href: /education
+  - name: Work Experience
+    href: /work-experience
+  - name: Extra-Curricular
+    href: /extra-curricular
+  - name: Volunteer Experience
+    href: /volunteer-experience
+  - name: Skills and Abilities
+    href: /skills
+  - name: Achievements
+    href: /achievements
+  - name: Certifications
+    href: /certifications
